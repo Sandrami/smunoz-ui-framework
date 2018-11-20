@@ -1,0 +1,22 @@
+{
+  "name": "smunoz-develop",
+  "version": "0.0.0",
+  "description": "This is a css framework",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:compile": "node-sass --include-path sass _vendor.scss styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandrami/smunoz-ui-framework.git"
+  },
+  "author": "Sandra Muñoz Isidro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandrami/smunoz-ui-framework/issues"
+  },
+  "homepage": "https://github.com/Sandrami/smunoz-ui-framework#readme"
+}
